@@ -1,3 +1,4 @@
+pip --upgrade
 keras==2.12.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
@@ -9,9 +10,9 @@ Pillow
 scikit-image
 scikit-learn
 streamlit==1.23.1
-torch==2.0.1
+torch==1.13.1
 tensorflow
-firebase-admin
 pycryptodome
-pyrebase4
 requests
+setuptools
+build
